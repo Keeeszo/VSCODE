@@ -1,0 +1,27 @@
+{
+  "name": "VSCODE",
+  "version": "1.0.0",
+  "description": "Pruebas internas\r Básicamente estoy haciendo pruebas en GitHUB para el control de archivos futuros.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keeeszo/VSCODE.git"
+  },
+  "keywords": [],
+  "author": "Romeo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keeeszo/VSCODE/issues"
+  },
+  "homepage": "https://github.com/Keeeszo/VSCODE#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
